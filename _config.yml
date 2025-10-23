@@ -1,0 +1,8 @@
+title: Your Name
+description: >-
+  Short tagline or role — e.g., Front‑end Developer & Designer.
+theme: jekyll-theme-cayman
+url: "" # e.g., https://yourdomain.com
+baseurl: "" # e.g., /portfolio if using a project site
+# To add Google Analytics later:
+# google_analytics: G-XXXXXXXXXX
